@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T03:16:31.192Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="5swri2hSXVpitEiIm9am" version="12.1.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T03:20:25.170Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="3ue1t0RGhvySD4YEiZ1S" version="12.1.5" type="github" pages="1">
   <diagram id="UOzD4N3eyY4db2SnFhZ8" name="Page-1">
     <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
           <mxGeometry x="70" y="380" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="wVM4E26sl-JtEafnIeuh-12" value="POEMS GATEWAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="370" width="120" height="80" as="geometry"/>
+          <mxGeometry x="327" y="370" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="wVM4E26sl-JtEafnIeuh-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wVM4E26sl-JtEafnIeuh-11" target="wVM4E26sl-JtEafnIeuh-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,12 +75,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wVM4E26sl-JtEafnIeuh-15" value="PSPL T+0&lt;br&gt;FEAccountCreation&lt;br&gt;Request Table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="210" height="180" as="geometry"/>
+          <mxGeometry x="577" y="320" width="210" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="wVM4E26sl-JtEafnIeuh-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wVM4E26sl-JtEafnIeuh-12" target="wVM4E26sl-JtEafnIeuh-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="410" as="sourcePoint"/>
-            <mxPoint x="485" y="410" as="targetPoint"/>
+            <mxPoint x="397" y="410" as="sourcePoint"/>
+            <mxPoint x="542" y="410" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="wVM4E26sl-JtEafnIeuh-17" value="1" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="wVM4E26sl-JtEafnIeuh-16">
@@ -90,8 +90,8 @@
         </mxCell>
         <mxCell id="wVM4E26sl-JtEafnIeuh-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="440" as="sourcePoint"/>
-            <mxPoint x="390" y="440" as="targetPoint"/>
+            <mxPoint x="577" y="440" as="sourcePoint"/>
+            <mxPoint x="447" y="440" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="wVM4E26sl-JtEafnIeuh-19" value="2" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="wVM4E26sl-JtEafnIeuh-18">
@@ -130,7 +130,7 @@
             <mxPoint x="110" y="480" as="sourcePoint"/>
             <mxPoint x="230" y="490" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="260" y="490"/>
+              <mxPoint x="260" y="480"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -156,6 +156,26 @@
           <mxGeometry x="0.2174" y="4" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wVM4E26sl-JtEafnIeuh-32" value="&lt;span style=&quot;white-space: normal&quot;&gt;LB Admin to wait the account to complete&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="350" y="750" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="wVM4E26sl-JtEafnIeuh-33" value="" style="endArrow=classic;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wVM4E26sl-JtEafnIeuh-25" target="wVM4E26sl-JtEafnIeuh-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="670" as="sourcePoint"/>
+            <mxPoint x="430" y="620" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="410" y="610"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVM4E26sl-JtEafnIeuh-34" value="Status = &quot;Pending&quot;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=12;" vertex="1" connectable="0" parent="wVM4E26sl-JtEafnIeuh-33">
+          <mxGeometry x="0.1245" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVM4E26sl-JtEafnIeuh-35" value="LB side" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="65" y="550" width="65" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
