@@ -1,1 +1,34 @@
-<mxfile host="www.draw.io" modified="2019-11-27T07:18:52.622Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="JQ2gpSFKWKLqRwHpD_Ww" version="12.3.1" type="github" pages="1"><diagram id="TsyXs1lMvlzcTJBPzldi" name="Page-1">ddG9DoMgEADgp2FHiYm7te3SyaEzkSuQoGcQo+3TF4PUEtuJ4+OO44ewqlsulg/qhgIMyalYCDuRPM8oK/2wyjNIQWkAabXYknZo9Ati5aaTFjAmiQ7ROD2k2GLfQ+sS49binKY90KRdBy7hAE3LzVHvWjgVtCzo7lfQUsXOWbxfx2PyBqPiAucvYjVhlUV0IeqWCsz6ePFdQt35z+rnYBZ696PAB/vefpL8EKvf</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-27T07:27:57.220Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="SSG1gC9OlNK8yq8iykgt" version="12.3.1" type="github" pages="1">
+  <diagram id="TsyXs1lMvlzcTJBPzldi" name="Page-1">
+    <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="jrE4Ar8w_MybIHlGVkCT-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="283" width="270" height="188" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrE4Ar8w_MybIHlGVkCT-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="283" width="470" height="188" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrE4Ar8w_MybIHlGVkCT-7" value="&lt;b&gt;POEMS APIs&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrE4Ar8w_MybIHlGVkCT-8" value="&lt;b&gt;GBO APIs&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632" y="389.5" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrE4Ar8w_MybIHlGVkCT-4" value="&lt;b&gt;White Label Apps&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="333" width="98" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrE4Ar8w_MybIHlGVkCT-5" value="&lt;b&gt;POEMS Gateway&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="332.5" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrE4Ar8w_MybIHlGVkCT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrE4Ar8w_MybIHlGVkCT-1" target="jrE4Ar8w_MybIHlGVkCT-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrE4Ar8w_MybIHlGVkCT-1" value="User" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="323.5" width="29" height="78" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
